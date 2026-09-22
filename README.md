@@ -1,5 +1,6 @@
 <div align="center">
-# 👋 **Dulana Nuwanjith**
+
+# 👋 Hi, I'm **Dulana Nuwanjith**
 
 <p><b>Building software that solves real business problems</b></p>
 
