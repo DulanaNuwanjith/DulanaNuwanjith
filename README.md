@@ -30,85 +30,60 @@ Building business-focused software that solves real operational problems.
 
 ## ✨ Quick Snapshot
 
-<table align="center">
+<table>
 <tr>
-
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
 ### 💼 Currently
+**Software Engineer @ Rangiri Holdings**
 
-<img src="https://img.shields.io/badge/Role-Software%20Engineer-0A66C2?style=for-the-badge&logo=code&logoColor=white" />
-
-<br><br>
-
-**Rangiri Holdings**
-
-<br><br>
-
-<img src="https://img.shields.io/badge/ERP-Systems-FF6F00?style=flat-square" />
-<img src="https://img.shields.io/badge/Production-Management-2EA043?style=flat-square" />
-<img src="https://img.shields.io/badge/Inventory-Systems-6F42C1?style=flat-square" />
-<img src="https://img.shields.io/badge/Workflow-Automation-181717?style=flat-square" />
+![ERP](https://img.shields.io/badge/ERP-Systems-FF6F00?style=flat-square)
+![Production](https://img.shields.io/badge/Production-Management-2EA043?style=flat-square)
+![Inventory](https://img.shields.io/badge/Inventory-Systems-6F42C1?style=flat-square)
+![Automation](https://img.shields.io/badge/Workflow-Automation-181717?style=flat-square)
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
 ### 🎓 Background
+**BSc (Hons) Computing — Information Systems**
 
-<img src="https://img.shields.io/badge/BSc_(Hons)-Computing-0A66C2?style=for-the-badge&logo=academia&logoColor=white" />
-
-<br><br>
-
-**Information Systems**
-
-<br><br>
-
-<img src="https://img.shields.io/badge/University_of_Greenwich-UK-003865?style=flat-square" />
-<img src="https://img.shields.io/badge/First_Class-Honours-2EA043?style=flat-square&logo=google-scholar&logoColor=white" />
+![Greenwich](https://img.shields.io/badge/University_of_Greenwich-UK-003865?style=flat-square)
+![First Class](https://img.shields.io/badge/First_Class-Honours-2EA043?style=flat-square)
 
 </td>
-
 </tr>
 
 <tr>
-
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
 ### ⚡ Engineering Focus
 
-<img src="https://img.shields.io/badge/Understand-Problem-0A66C2?style=flat-square" />
-➡️
-<img src="https://img.shields.io/badge/Analyze-Requirements-6F42C1?style=flat-square" />
+![Understand](https://img.shields.io/badge/Understand-Problem-0A66C2?style=flat-square)
+→
+![Analyze](https://img.shields.io/badge/Analyze-Requirements-6F42C1?style=flat-square)
+→
+![Architect](https://img.shields.io/badge/Architect-System-FF6F00?style=flat-square)
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Architect-System-FF6F00?style=flat-square" />
-➡️
-<img src="https://img.shields.io/badge/Build-Solution-2EA043?style=flat-square" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Deploy-Production-EA4335?style=flat-square" />
-➡️
-<img src="https://img.shields.io/badge/Improve-Continuously-181717?style=flat-square" />
+![Build](https://img.shields.io/badge/Build-Solution-2EA043?style=flat-square)
+→
+![Deploy](https://img.shields.io/badge/Deploy-Production-EA4335?style=flat-square)
+→
+![Improve](https://img.shields.io/badge/Improve-Continuously-181717?style=flat-square)
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 Exploring
 
-<img src="https://img.shields.io/badge/Artificial-Intelligence-6F42C1?style=for-the-badge&logo=openai&logoColor=white" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-0A66C2?style=flat-square" />
-<img src="https://img.shields.io/badge/Intelligent-Business%20Systems-2EA043?style=flat-square" />
-<img src="https://img.shields.io/badge/Decision-Support-Systems-FF6F00?style=flat-square" />
+![AI](https://img.shields.io/badge/Artificial-Intelligence-6F42C1?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-0A66C2?style=flat-square)
+![Business Systems](https://img.shields.io/badge/Intelligent-Business_Systems-2EA043?style=flat-square)
+![Decision Support](https://img.shields.io/badge/Decision_Support-Systems-FF6F00?style=flat-square)
 
 </td>
-
 </tr>
 </table>
 
