@@ -69,16 +69,20 @@ Building business-focused software that solves real operational problems.
 
 <img src="https://img.shields.io/badge/Understand-Problem-0A66C2?style=flat-square" />
 &nbsp;&nbsp;➜&nbsp;&nbsp;
+
 <img src="https://img.shields.io/badge/Analyze-Requirements-6F42C1?style=flat-square" />
 &nbsp;&nbsp;➜&nbsp;&nbsp;
+
 <img src="https://img.shields.io/badge/Architect-System-FF6F00?style=flat-square" />
 
-<br><br>
+<br><br><br>
 
 <img src="https://img.shields.io/badge/Build-Solution-2EA043?style=flat-square" />
 &nbsp;&nbsp;➜&nbsp;&nbsp;
+
 <img src="https://img.shields.io/badge/Deploy-Production-EA4335?style=flat-square" />
 &nbsp;&nbsp;➜&nbsp;&nbsp;
+
 <img src="https://img.shields.io/badge/Improve-Continuously-181717?style=flat-square" />
 
 </p>
