@@ -75,7 +75,7 @@ Building business-focused software that solves real operational problems.
 
 <img src="https://img.shields.io/badge/Architect-System-FF6F00?style=flat-square" />
 
-<br>
+<br><br><br>
 
 <img src="https://img.shields.io/badge/Build-Solution-2EA043?style=flat-square" />
 &nbsp;&nbsp;➜&nbsp;&nbsp;
