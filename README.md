@@ -2,9 +2,7 @@
 
 # 👋 Hi, I'm **Dulana Nuwanjith**
 
-### Building software that solves real business problems
-
-<br>
+<p><b>Building software that solves real business problems</b></p>
 
 <img src="https://img.shields.io/badge/Software_Engineer-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white" />
 &nbsp;
@@ -12,7 +10,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/System_Analyst-2EA043?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/ERP-Business_Systems-FF6F00?style=flat-square" />
 &nbsp;
@@ -22,44 +20,30 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Workflow-Automation-2EA043?style=flat-square" />
 
-<br><br>
-
-### **Analyze • Architect • Build • Deploy • Improve**
+<p><b>Analyze • Architect • Build • Deploy • Improve</b></p>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&center=true&vCenter=true&width=820&height=45&lines=Turning+Business+Problems+Into+Scalable+Software;ERP+%7C+Production+%7C+Inventory+%7C+Automation;Laravel+%7C+React+%7C+Angular+%7C+Python+%7C+Java;Building+Systems+That+Create+Real+Business+Value"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&center=true&vCenter=true&width=760&height=30&lines=Turning+Business+Problems+Into+Scalable+Software;ERP+%7C+Production+%7C+Inventory+%7C+Automation;Laravel+%7C+React+%7C+Angular+%7C+Python+%7C+Java;Building+Systems+That+Create+Real+Business+Value"
   alt="Typing SVG"
 />
 
 <br>
 
 <a href="https://github.com/DulanaNuwanjith">
-  <img
-    src="https://img.shields.io/badge/GitHub-DulanaNuwanjith-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
+<img src="https://img.shields.io/badge/GitHub-DulanaNuwanjith-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/dulana-nuwanjith/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Dulana%20Nuwanjith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
+<img src="https://img.shields.io/badge/LinkedIn-Dulana%20Nuwanjith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:dulana69@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-dulana69%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
+<img src="https://img.shields.io/badge/Email-dulana69%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br><br>
+<br>
 
-<img
-  src="https://komarev.com/ghpvc/?username=DulanaNuwanjith&style=flat-square&label=PROFILE+VIEWS"
-  alt="Profile Views"
-/>
+<img src="https://komarev.com/ghpvc/?username=DulanaNuwanjith&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
 
