@@ -1,12 +1,27 @@
 <div align="center">
 
-👋 Hi, I'm Dulana Nuwanjith
+# 👋 Hi, I'm **Dulana Nuwanjith**
 
-Software Engineer • Forward Deployed Engineer • System Analyst
-
-Building business-focused software that solves real operational problems.
+### Building software that solves real business problems
 
 <br>
+
+<img src="https://img.shields.io/badge/Software-Engineer-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white" />
+<img src="https://img.shields.io/badge/Forward_Deployed-Engineer-6F42C1?style=for-the-badge&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/System-Analyst-2EA043?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ERP-Business_Systems-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/System-Architecture-181717?style=flat-square" />
+<img src="https://img.shields.io/badge/Full--Stack-Development-0A66C2?style=flat-square" />
+<img src="https://img.shields.io/badge/Workflow-Automation-2EA043?style=flat-square" />
+
+<br><br>
+
+> **Analyze • Architect • Build • Deploy • Improve**
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=850&lines=Software+Engineer;Forward+Deployed+Engineer;System+Analyst;ERP+%7C+Business+Systems+%7C+Automation;Laravel+%7C+React+%7C+Angular+%7C+Python+%7C+Java" alt="Typing SVG" />
 
