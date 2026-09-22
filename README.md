@@ -32,41 +32,47 @@ Building business-focused software that solves real operational problems.
 
 <div align="center">
 
-### **Software Engineer • Forward Deployed Engineer • System Analyst**
+### **Software Engineer × Forward Deployed Engineer**
+
+Turning **business problems** into **production-ready software**
+
+<br>
+
+<img src="https://img.shields.io/badge/ERP-Systems-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System-Architecture-6F42C1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Full--Stack-Development-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Workflow-Automation-2EA043?style=for-the-badge" />
+
+<br><br>
+
+### 💼 Currently
+
+**Software Engineer @ Rangiri Holdings**
+
+Building and scaling systems across:
+
+**Production** • **Inventory** • **ERP** • **Automation**
+
+<br>
+
+### ⚡ My Engineering Focus
+
+`Understand` → `Analyze` → `Architect` → `Build` → `Deploy` → `Improve`
+
+<br>
+
+### 🎓 Background
+
+**BSc (Hons) Computing — Information Systems**  
+🏆 **First Class Honours**
+
+<br>
+
+### 🤖 Exploring
+
+**AI • NLP • Intelligent Business Systems**
 
 </div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 💼 Professional Focus
-
-- 💻 **Software Engineer** at **Rangiri Holdings**
-- ⚡ Focused on **Forward Deployed Engineering**
-- 🏭 Building **ERP, Production, Inventory & Business Systems**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎯 Engineering Interests
-
-- 🏗️ **System Analysis, Architecture & Full-Stack Development**
-- 🤖 **AI, NLP & Intelligent Software Systems**
-- 🎓 **BSc (Hons) Computing — First Class Honours**
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-> **Turning real business requirements into scalable software solutions.**
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
