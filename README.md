@@ -80,88 +80,103 @@ MySQL • MongoDB • MS SQL Server • GraphQL • Spring Boot • Node.js • 
 </tr>
 </table>
 
-🌟 Featured Projects
+## 🌟 Featured Projects
 
-🏭 IPEMS
+### 🏭 IPEMS  
+**Integrated Production & Efficiency Management System**
 
-Integrated Production & Efficiency Management System
+A business-focused **ERP platform** built to manage **production, inventory, raw materials, orders, reporting, and workflow automation** in one centralized system.
 
-ERP-style platform for production, inventory, raw materials, orders, reporting and workflow automation.
+**Tech Stack**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-Tech: Laravel PHP MySQL Blade Tailwind CSS
+---
 
-📱 Iworld
+### 📱 Iworld  
+**Mobile Selling & Finance Management System**
 
-Mobile Selling & Finance Management System
+A business application built for **mobile inventory, customer management, sales operations, and installment-based finance management**.
 
-Business application for mobile inventory, customer management, sales and installment finance.
+**Tech Stack**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-Tech: Laravel PHP MySQL Tailwind CSS
+---
 
-🤖 TechSpective
+### 🤖 TechSpective  
+**AI-Powered Candidate Pre-screening Framework**
 
-AI-Powered Candidate Pre-screening Framework
+An intelligent project focused on **candidate analysis, technical assessment, and smart screening** using **NLP** and **Machine Learning**.
 
-NLP and ML-based project for candidate analysis, technical assessment and intelligent screening.
+**Tech Stack**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-Tech: React Python Django MongoDB
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DulanaNuwanjith/techspective-fe)
 
-<a href="https://github.com/DulanaNuwanjith/techspective-fe">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="TechSpective Repo"/>
-</a>
+---
 
-📦 More Projects
+### 📦 More Projects
 
-Inventory Management System — Angular TypeScript
+- **Inventory Management System** — `Angular` `TypeScript`
+- **Employee Management System** — `Laravel` `PHP` `MySQL`
+- **SLTB Season Booking System** — `Python`
 
-Employee Management System — Laravel PHP MySQL
+---
 
-SLTB Season Booking System — Python
+## 💼 Experience
 
-💼 Experience
+### 💼 Software Engineer — **Rangiri Holdings**  
+`Feb 2026 – Present`
 
-Software Engineer — Rangiri Holdings
+- **Lead development and scaling** of the company ERP
+- **Design system architecture** and application modules
+- Build **production and inventory features**
+- **Guide and support** a small development team
 
-Feb 2026 – Present
+---
 
-Lead development and scaling of the company ERP
+### 🧩 System Analyst & Developer — **Rangiri Holdings**  
+`May 2025 – Jan 2026`
 
-Design system architecture and modules
+- Analysed **business workflows**
+- Automated **manual processes**
+- Helped design and build a **full ERP system**
+- Developed **reporting** and **resource-management** features
 
-Build production and inventory features
+---
 
-Guide a small development team
+### 🌐 Software Engineer Intern — **hSenid Software Lanka**  
+`Aug 2023 – Jun 2024`
 
-System Analyst & Developer — Rangiri Holdings
+- Built **Angular features** and fixed bugs
+- Collaborated with backend teams using **Spring Boot**, **MongoDB**, and **GraphQL**
 
-May 2025 – Jan 2026
+---
 
-Analysed business workflows
+## 🎓 Education
 
-Automated manual processes
+### 🎓 **BSc (Hons) in Computing (Information Systems)**  
+**University of Greenwich**  
+🏆 **First Class Honours**
 
-Helped design and build a full ERP system
+---
 
-Developed reporting and resource-management features
+## 🌍 Languages
 
-Software Engineer Intern — hSenid Software Lanka
-
-Aug 2023 – Jun 2024
-
-Built Angular features and fixed bugs
-
-Collaborated with backend teams using Spring Boot, MongoDB and GraphQL
-
-🎓 Education
-
-BSc (Hons) in Computing (Information Systems)
-
-University of Greenwich
-🏆 First Class Honours
-
-🌍 Languages
-
-English — Fluent • Sinhala — Native • Japanese — N5
+<p>
+  <img src="https://img.shields.io/badge/English-Fluent-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sinhala-Native-2ea043?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Japanese-N5-f85149?style=for-the-badge" />
+</p>
 
 📊 GitHub Stats
 
