@@ -28,57 +28,187 @@ Building business-focused software that solves real operational problems.
 
 </div>
 
-🚀 About Me
-
-💼 Software Engineer at Rangiri Holdings
-
-⚡ Focused on Forward Deployed Engineering
-
-🏭 Building ERP, Production, Inventory & Business Systems
-
-🏗️ Skilled in System Analysis, Architecture & Full-Stack Development
-
-🤖 Interested in AI, NLP & Intelligent Software Systems
-
-🎓 BSc (Hons) Computing (Information Systems) — First Class Honours
-
-🛠️ Tech Stack
+## 🚀 About Me
 
 <div align="center">
 
-Core Languages & Frameworks
-
-<img src="https://skillicons.dev/icons?i=php,laravel,java,python,javascript,typescript,react,angular,vue,tailwind,html,css" />
-
-Databases, Cloud & Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,github,postman,figma,aws,linux" />
+### **Software Engineer • Forward Deployed Engineer • System Analyst**
 
 </div>
-
-<div align="center">
-
-Laravel • PHP • React • Angular • Python • Java
-MySQL • MongoDB • MS SQL Server • GraphQL • Spring Boot • Node.js • Hostinger
-
-</div>
-
-💡 What I Do
 
 <table align="center">
 <tr>
-<td align="center">🔍<br><b>System Analysis</b></td>
-<td align="center">🏗️<br><b>Architecture</b></td>
-<td align="center">💻<br><b>Full-Stack Development</b></td>
-<td align="center">🚀<br><b>Deployment</b></td>
-</tr>
-<tr>
-<td align="center">🏭<br><b>ERP Systems</b></td>
-<td align="center">📦<br><b>Inventory & Production</b></td>
-<td align="center">🔄<br><b>Workflow Automation</b></td>
-<td align="center">🤖<br><b>AI / NLP</b></td>
+<td width="50%" valign="top">
+
+### 💼 Professional Focus
+
+- 💻 **Software Engineer** at **Rangiri Holdings**
+- ⚡ Focused on **Forward Deployed Engineering**
+- 🏭 Building **ERP, Production, Inventory & Business Systems**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎯 Engineering Interests
+
+- 🏗️ **System Analysis, Architecture & Full-Stack Development**
+- 🤖 **AI, NLP & Intelligent Software Systems**
+- 🎓 **BSc (Hons) Computing — First Class Honours**
+
+</td>
 </tr>
 </table>
+
+<div align="center">
+
+> **Turning real business requirements into scalable software solutions.**
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Core Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=php,laravel,java,python,javascript,typescript,react,angular,vue,tailwind,html,css" />
+
+<br><br>
+
+**Laravel** • **PHP** • **React** • **Angular** • **Python** • **Java**
+
+<br>
+
+### 🗄️ Databases, Cloud & Engineering Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,github,postman,figma,aws,linux" />
+
+<br><br>
+
+**MySQL** • **MongoDB** • `MS SQL Server` • **GraphQL** • `Spring Boot` • `Node.js` • `Hostinger`
+
+</div>
+
+---
+
+## 💡 What I Do
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="25%">
+<br>
+🔍
+<br><br>
+<b>System Analysis</b>
+<br>
+<sub>Requirements & workflows</sub>
+<br><br>
+</td>
+
+<td align="center" width="25%">
+<br>
+🏗️
+<br><br>
+<b>Architecture</b>
+<br>
+<sub>Systems & databases</sub>
+<br><br>
+</td>
+
+<td align="center" width="25%">
+<br>
+💻
+<br><br>
+<b>Full-Stack</b>
+<br>
+<sub>Frontend & backend</sub>
+<br><br>
+</td>
+
+<td align="center" width="25%">
+<br>
+🚀
+<br><br>
+<b>Deployment</b>
+<br>
+<sub>Release & production</sub>
+<br><br>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<br>
+🏭
+<br><br>
+<b>ERP Systems</b>
+<br>
+<sub>Enterprise workflows</sub>
+<br><br>
+</td>
+
+<td align="center">
+<br>
+📦
+<br><br>
+<b>Production & Inventory</b>
+<br>
+<sub>Operational systems</sub>
+<br><br>
+</td>
+
+<td align="center">
+<br>
+🔄
+<br><br>
+<b>Automation</b>
+<br>
+<sub>Digital transformation</sub>
+<br><br>
+</td>
+
+<td align="center">
+<br>
+🤖
+<br><br>
+<b>AI / NLP</b>
+<br>
+<sub>Intelligent systems</sub>
+<br><br>
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## ⚡ Engineering Approach
+
+<div align="center">
+
+**Understand → Analyze → Architect → Build → Deploy → Improve**
+
+<br>
+
+<img src="https://img.shields.io/badge/Understand-Business%20Problem-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Analyze-Requirements-6F42C1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Architect-System-FF6F00?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Build-Solution-2EA043?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deploy-Production-EA4335?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Improve-Continuously-181717?style=for-the-badge" />
+
+</div>
 
 ## 🌟 Featured Projects
 
