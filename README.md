@@ -30,10 +30,10 @@ Building business-focused software that solves real operational problems.
 
 ## ✨ Quick Snapshot
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ### 💼 Currently
 
@@ -46,7 +46,7 @@ Building business-focused software that solves real operational problems.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
 ### 🎓 Background
 
@@ -61,7 +61,7 @@ Building business-focused software that solves real operational problems.
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
 ### ⚡ Engineering Focus
 
@@ -75,7 +75,7 @@ Building business-focused software that solves real operational problems.
 
 <img src="https://img.shields.io/badge/Architect-System-FF6F00?style=flat-square" />
 
-<br><br>
+<br><br><br>
 
 <img src="https://img.shields.io/badge/Build-Solution-2EA043?style=flat-square" />
 &nbsp;&nbsp;➜&nbsp;&nbsp;
@@ -89,7 +89,7 @@ Building business-focused software that solves real operational problems.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
 ### 🤖 Exploring
 
