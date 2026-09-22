@@ -77,9 +77,6 @@ Building business-focused software that solves real operational problems.
 <img src="https://skillicons.dev/icons?i=php,laravel,java,python,javascript,typescript,react,angular,vue,tailwind,html,css" />
 
 <br><br>
-
-**Laravel** • **PHP** • **React** • **Angular** • **Python** • **Java**
-
 <br>
 
 ### 🗄️ Databases, Cloud & Engineering Tools
@@ -87,8 +84,6 @@ Building business-focused software that solves real operational problems.
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,github,postman,figma,aws,linux" />
 
 <br><br>
-
-**MySQL** • **MongoDB** • `MS SQL Server` • **GraphQL** • `Spring Boot` • `Node.js` • `Hostinger`
 
 </div>
 
