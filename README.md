@@ -28,51 +28,89 @@ Building business-focused software that solves real operational problems.
 
 </div>
 
-## 🚀 About Me
+## ✨ Quick Snapshot
 
-<div align="center">
+<table align="center">
+<tr>
 
-### **Software Engineer × Forward Deployed Engineer**
-
-Turning **business problems** into **production-ready software**
-
-<br>
-
-<img src="https://img.shields.io/badge/ERP-Systems-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/System-Architecture-6F42C1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Full--Stack-Development-0A66C2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Workflow-Automation-2EA043?style=for-the-badge" />
-
-<br><br>
+<td align="center" width="50%">
 
 ### 💼 Currently
 
-**Software Engineer @ Rangiri Holdings**
+<img src="https://img.shields.io/badge/Role-Software%20Engineer-0A66C2?style=for-the-badge&logo=code&logoColor=white" />
 
-Building and scaling systems across:
+<br><br>
 
-**Production** • **Inventory** • **ERP** • **Automation**
+**Rangiri Holdings**
 
-<br>
+<br><br>
 
-### ⚡ My Engineering Focus
+<img src="https://img.shields.io/badge/ERP-Systems-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/Production-Management-2EA043?style=flat-square" />
+<img src="https://img.shields.io/badge/Inventory-Systems-6F42C1?style=flat-square" />
+<img src="https://img.shields.io/badge/Workflow-Automation-181717?style=flat-square" />
 
-`Understand` → `Analyze` → `Architect` → `Build` → `Deploy` → `Improve`
+</td>
 
-<br>
+<td align="center" width="50%">
 
 ### 🎓 Background
 
-**BSc (Hons) Computing — Information Systems**  
-🏆 **First Class Honours**
+<img src="https://img.shields.io/badge/BSc_(Hons)-Computing-0A66C2?style=for-the-badge&logo=academia&logoColor=white" />
 
-<br>
+<br><br>
+
+**Information Systems**
+
+<br><br>
+
+<img src="https://img.shields.io/badge/University_of_Greenwich-UK-003865?style=flat-square" />
+<img src="https://img.shields.io/badge/First_Class-Honours-2EA043?style=flat-square&logo=google-scholar&logoColor=white" />
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### ⚡ Engineering Focus
+
+<img src="https://img.shields.io/badge/Understand-Problem-0A66C2?style=flat-square" />
+➡️
+<img src="https://img.shields.io/badge/Analyze-Requirements-6F42C1?style=flat-square" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Architect-System-FF6F00?style=flat-square" />
+➡️
+<img src="https://img.shields.io/badge/Build-Solution-2EA043?style=flat-square" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Deploy-Production-EA4335?style=flat-square" />
+➡️
+<img src="https://img.shields.io/badge/Improve-Continuously-181717?style=flat-square" />
+
+</td>
+
+<td align="center" width="50%">
 
 ### 🤖 Exploring
 
-**AI • NLP • Intelligent Business Systems**
+<img src="https://img.shields.io/badge/Artificial-Intelligence-6F42C1?style=for-the-badge&logo=openai&logoColor=white" />
 
-</div>
+<br><br>
+
+<img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-0A66C2?style=flat-square" />
+<img src="https://img.shields.io/badge/Intelligent-Business%20Systems-2EA043?style=flat-square" />
+<img src="https://img.shields.io/badge/Decision-Support-Systems-FF6F00?style=flat-square" />
+
+</td>
+
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
