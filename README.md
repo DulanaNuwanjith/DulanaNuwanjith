@@ -1,16 +1,5 @@
 <div align="center">
-
-<div align="center">
-
-<h1>👋 Hi, I'm <b>Dulana Nuwanjith</b></h1>
-
-<p>
-  <img src="https://img.shields.io/badge/Software_Engineer-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Forward_Deployed_Engineer-6F42C1?style=for-the-badge&logo=rocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/System_Analyst-2EA043?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
-</p>
-
-</div>
+# 👋 **Dulana Nuwanjith**
 
 <p><b>Building software that solves real business problems</b></p>
 
