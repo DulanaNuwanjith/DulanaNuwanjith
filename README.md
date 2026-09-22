@@ -60,17 +60,23 @@ Building business-focused software that solves real operational problems.
 
 ### ⚡ Engineering Focus
 
-![Understand](https://img.shields.io/badge/Understand-Problem-0A66C2?style=flat-square)
-→
-![Analyze](https://img.shields.io/badge/Analyze-Requirements-6F42C1?style=flat-square)
-→
-![Architect](https://img.shields.io/badge/Architect-System-FF6F00?style=flat-square)
+<p align="center">
 
-![Build](https://img.shields.io/badge/Build-Solution-2EA043?style=flat-square)
-→
-![Deploy](https://img.shields.io/badge/Deploy-Production-EA4335?style=flat-square)
-→
-![Improve](https://img.shields.io/badge/Improve-Continuously-181717?style=flat-square)
+<img src="https://img.shields.io/badge/Understand-Problem-0A66C2?style=flat-square" />
+&nbsp;&nbsp;➜&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Analyze-Requirements-6F42C1?style=flat-square" />
+&nbsp;&nbsp;➜&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Architect-System-FF6F00?style=flat-square" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Build-Solution-2EA043?style=flat-square" />
+&nbsp;&nbsp;➜&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Deploy-Production-EA4335?style=flat-square" />
+&nbsp;&nbsp;➜&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Improve-Continuously-181717?style=flat-square" />
+
+</p>
 
 </td>
 
