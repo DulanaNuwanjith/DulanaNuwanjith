@@ -32,13 +32,13 @@ Building business-focused software that solves real operational problems.
 
 💼 Software Engineer at Rangiri Holdings
 
-🧩 Focused on ERP, production, inventory and business systems
+⚡ Focused on Forward Deployed Engineering
 
-⚡ Interested in Forward Deployed Engineering
+🏭 Building ERP, Production, Inventory & Business Systems
 
-🏗️ Enjoy system analysis, architecture and full-stack development
+🏗️ Skilled in System Analysis, Architecture & Full-Stack Development
 
-🤖 Interested in AI, NLP and intelligent software systems
+🤖 Interested in AI, NLP & Intelligent Software Systems
 
 🎓 BSc (Hons) Computing (Information Systems) — First Class Honours
 
@@ -46,11 +46,11 @@ Building business-focused software that solves real operational problems.
 
 <div align="center">
 
-Languages & Frameworks
+Core Languages & Frameworks
 
 <img src="https://skillicons.dev/icons?i=php,laravel,java,python,javascript,typescript,react,angular,vue,tailwind,html,css" />
 
-Databases & Tools
+Databases, Cloud & Tools
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,git,github,postman,figma,aws,linux" />
 
@@ -58,7 +58,8 @@ Databases & Tools
 
 <div align="center">
 
-MS SQL Server • Blade • GraphQL • Spring Boot • Node.js • Hostinger
+Laravel • PHP • React • Angular • Python • Java
+MySQL • MongoDB • MS SQL Server • GraphQL • Spring Boot • Node.js • Hostinger
 
 </div>
 
@@ -84,19 +85,25 @@ MS SQL Server • Blade • GraphQL • Spring Boot • Node.js • Hostinger
 🏭 IPEMS
 
 Integrated Production & Efficiency Management System
+
 ERP-style platform for production, inventory, raw materials, orders, reporting and workflow automation.
+
 Tech: Laravel PHP MySQL Blade Tailwind CSS
 
 📱 Iworld
 
 Mobile Selling & Finance Management System
+
 Business application for mobile inventory, customer management, sales and installment finance.
+
 Tech: Laravel PHP MySQL Tailwind CSS
 
 🤖 TechSpective
 
 AI-Powered Candidate Pre-screening Framework
-NLP and ML-based project for technical assessment and candidate analysis.
+
+NLP and ML-based project for candidate analysis, technical assessment and intelligent screening.
+
 Tech: React Python Django MongoDB
 
 <a href="https://github.com/DulanaNuwanjith/techspective-fe">
@@ -129,7 +136,9 @@ System Analyst & Developer — Rangiri Holdings
 
 May 2025 – Jan 2026
 
-Analysed workflows and automated manual processes
+Analysed business workflows
+
+Automated manual processes
 
 Helped design and build a full ERP system
 
@@ -146,11 +155,13 @@ Collaborated with backend teams using Spring Boot, MongoDB and GraphQL
 🎓 Education
 
 BSc (Hons) in Computing (Information Systems)
-University of Greenwich — First Class Honours
+
+University of Greenwich
+🏆 First Class Honours
 
 🌍 Languages
 
-English • Sinhala • Japanese (N5)
+English — Fluent • Sinhala — Native • Japanese — N5
 
 📊 GitHub Stats
 
