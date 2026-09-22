@@ -32,9 +32,11 @@ Building business-focused software that solves real operational problems.
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 💼 Currently
+
 **Software Engineer @ Rangiri Holdings**
 
 ![ERP](https://img.shields.io/badge/ERP-Systems-FF6F00?style=flat-square)
@@ -47,20 +49,23 @@ Building business-focused software that solves real operational problems.
 <td width="50%" valign="top">
 
 ### 🎓 Background
+
 **BSc (Hons) Computing — Information Systems**
 
 ![Greenwich](https://img.shields.io/badge/University_of_Greenwich-UK-003865?style=flat-square)
 ![First Class](https://img.shields.io/badge/First_Class-Honours-2EA043?style=flat-square)
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### ⚡ Engineering Focus
 
-<p align="center">
+<p>
 
 <img src="https://img.shields.io/badge/Understand-Problem-0A66C2?style=flat-square" />
 &nbsp;&nbsp;➜&nbsp;&nbsp;
@@ -86,10 +91,12 @@ Building business-focused software that solves real operational problems.
 
 ![AI](https://img.shields.io/badge/Artificial-Intelligence-6F42C1?style=flat-square)
 ![NLP](https://img.shields.io/badge/NLP-Natural_Language_Processing-0A66C2?style=flat-square)
+
 ![Business Systems](https://img.shields.io/badge/Intelligent-Business_Systems-2EA043?style=flat-square)
 ![Decision Support](https://img.shields.io/badge/Decision_Support-Systems-FF6F00?style=flat-square)
 
 </td>
+
 </tr>
 </table>
 
