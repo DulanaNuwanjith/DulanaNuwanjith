@@ -6,42 +6,64 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Software-Engineer-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white" />
-<img src="https://img.shields.io/badge/Forward_Deployed-Engineer-6F42C1?style=for-the-badge&logo=rocket&logoColor=white" />
-<img src="https://img.shields.io/badge/System-Analyst-2EA043?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Software_Engineer-0A66C2?style=for-the-badge&logo=codeforces&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Forward_Deployed_Engineer-6F42C1?style=for-the-badge&logo=rocket&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/System_Analyst-2EA043?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/ERP-Business_Systems-FF6F00?style=flat-square" />
+&nbsp;
 <img src="https://img.shields.io/badge/System-Architecture-181717?style=flat-square" />
+&nbsp;
 <img src="https://img.shields.io/badge/Full--Stack-Development-0A66C2?style=flat-square" />
+&nbsp;
 <img src="https://img.shields.io/badge/Workflow-Automation-2EA043?style=flat-square" />
 
 <br><br>
 
-> **Analyze • Architect • Build • Deploy • Improve**
+### **Analyze • Architect • Build • Deploy • Improve**
 
-</div>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&center=true&vCenter=true&width=820&height=45&lines=Turning+Business+Problems+Into+Scalable+Software;ERP+%7C+Production+%7C+Inventory+%7C+Automation;Laravel+%7C+React+%7C+Angular+%7C+Python+%7C+Java;Building+Systems+That+Create+Real+Business+Value"
+  alt="Typing SVG"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=850&lines=Software+Engineer;Forward+Deployed+Engineer;System+Analyst;ERP+%7C+Business+Systems+%7C+Automation;Laravel+%7C+React+%7C+Angular+%7C+Python+%7C+Java" alt="Typing SVG" />
-
-<br><br>
+<br>
 
 <a href="https://github.com/DulanaNuwanjith">
-  <img src="https://img.shields.io/badge/GitHub-DulanaNuwanjith-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-DulanaNuwanjith-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/dulana-nuwanjith/">
-  <img src="https://img.shields.io/badge/LinkedIn-Dulana%20Nuwanjith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Dulana%20Nuwanjith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
+&nbsp;
 <a href="mailto:dulana69@gmail.com">
-  <img src="https://img.shields.io/badge/Email-dulana69%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img
+    src="https://img.shields.io/badge/Email-dulana69%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=DulanaNuwanjith&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+<img
+  src="https://komarev.com/ghpvc/?username=DulanaNuwanjith&style=flat-square&label=PROFILE+VIEWS"
+  alt="Profile Views"
+/>
 
 </div>
+
+---
 
 ## ✨ Quick Snapshot
 
